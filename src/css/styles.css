@@ -1,0 +1,91 @@
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+  font-family: 'Roboto', sans-serif;  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #151b29;
+}
+
+/* Header styling */
+header {
+    background-image: url('/src/img/banner-982162_1920.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    /* set the height of the header */
+    background-color: #000;
+    color: #fff;
+    padding: 1em;
+}
+
+/* Headings styling */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: bold;
+    margin-bottom: 0.5em;
+}
+
+p{
+    color: whitesmoke;
+}
+/* Links styling */
+a {
+    color: #0079c1;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #F1F6F5;
+}
+
+/* Button styling */
+button{
+    background: none;
+    color: #ffa260;
+    border: 2px solid;
+    padding: 1em 2em;
+    font-size: 1em;
+    transition: all 0.25s;
+    border-radius: 2rem;
+}
+
+button:hover{
+   border-color: #f1ff5c;
+   color: white;
+   box-shadow: 0 0.5em 0.5em -0.4em #f1ff5c;
+   transform: translateY(-0.25em);
+   cursor: pointer;
+}
+
+/* Form styling */
+form input,
+form textarea {
+    padding: 0.5em;
+    margin-bottom: 1em
+}
+
+table{
+    border: 1px solid #F1F6F5;
+}
+
+td, th{
+    color: whitesmoke;
+    border: 1px solid #F1F6F5;
+}
+
+img{
+    border: 1px;
+}
