@@ -19,6 +19,7 @@ body {
 /* Header styling */
 header {
     background-image: url('/src/img/brain-2062057_1280.jpg');
+    /* filter: alpha(opacity=96); */
     background-size: cover;
     background-position: center;
     height: 300px;
@@ -27,6 +28,7 @@ header {
     color: #fff;
     padding: 1em;
 }
+
 
 /* Headings styling */
 h1,
@@ -43,17 +45,17 @@ p{
     color: whitesmoke;
 }
 /* Links styling */
-a {
+/* a {
     color: #0079c1;
     text-decoration: none;
 }
 
 a:hover {
     color: #F1F6F5;
-}
+} */
 
 /* Button styling */
-button{
+/* button{
     background: none;
     color: #ffa260;
     border: 2px solid;
@@ -61,15 +63,15 @@ button{
     font-size: 1em;
     transition: all 0.25s;
     border-radius: 2rem;
-}
+} */
 
-button:hover{
+/* button:hover{
    border-color: #f1ff5c;
    color: white;
    box-shadow: 0 0.5em 0.5em -0.4em #f1ff5c;
    transform: translateY(-0.25em);
    cursor: pointer;
-}
+} */
 
 /* Form styling */
 form input,
