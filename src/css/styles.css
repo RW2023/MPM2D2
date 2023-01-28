@@ -1,12 +1,12 @@
 /* Reset default styles */
-/* * {
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-} */
+}
 
 /* Body styling */
-body {
+/* body {
   font-family: 'Roboto', sans-serif;  
   display: flex;
   align-items: center;
@@ -14,22 +14,22 @@ body {
   height: 100vh;
   background-color: #151b29; 
   color: whitesmoke;
-}
+} */
 
 
 /* Header styling */
-header {
-    background-image: url('/src/img/4523362_2343501.jpg');
+/* header { */
+    /* background-image: url('/src/img/4523362_2343501.jpg'); */
     /* filter: alpha(opacity=19); */
-    background-size: cover;
-    background-position: center;
-    height: 300px;
+    /* background-size: cover; */
+    /* background-position: center; */
+    /* height: 300px; */
     /* set the height of the header */
-    background-color: #000;
-    color: #fff;
-    padding: 1em;
+    /* background-color: #000; */
+    /* color: #fff; */
+    /* padding: 1em; */
     /* opacity: 95%; */
-}
+/* } */
 
 
 /* Headings styling */
@@ -76,21 +76,21 @@ a:hover {
 } */
 
 /* Form styling */
-form input,
+/* form input,
 form textarea {
     padding: 0.5em;
     margin-bottom: 1em
-}
+} */
 
-table{
+/* table{
     border: 1px solid #F1F6F5;
-}
+} */
 
-td, th{
+/* td, th{
     color: whitesmoke;
     border: 1px solid #F1F6F5;
-}
+} */
 
-img{
+/* img{
     border: 1px;
-}
+} */
