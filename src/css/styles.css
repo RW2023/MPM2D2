@@ -1,9 +1,9 @@
 /* Reset default styles */
-* {
+/* * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+} */
 
 /* Body styling */
 body {
@@ -12,27 +12,28 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: #151b29;
+  background-color: #151b29; 
   color: whitesmoke;
 }
 
+
 /* Header styling */
 header {
-    background-image: url("https://cdn.pixabay.com/photo/2019/12/21/20/44/math-work-4711302_1280.jpg");
+    background-image: url("https://cdn.pixabay.com/photo/2019/12/21/20/44/math-work-4711302_1280.jpg")!important;
     /* filter: alpha(opacity=19); */
     background-size: cover;
     background-position: center;
     height: 300px;
     /* set the height of the header */
-    background-color: #000;
+    background-color: #000 !important;
     color: #fff;
     padding: 1em;
-    opacity: 95%;
+    /* opacity: 95%; */
 }
 
 
 /* Headings styling */
-h1,
+/* h1,
 h2,
 h3,
 h4,
@@ -40,11 +41,11 @@ h5,
 h6 {
     font-weight: bold;
     margin-bottom: 0.5em;
-}
+} */
 
-p{
+/* p{
     color: whitesmoke;
-}
+} */
 /* Links styling */
 /* a {
     color: #0079c1;
