@@ -18,18 +18,18 @@
 
 
 /* Header styling */
-/* header { */
-    /* background-image: url('/src/img/4523362_2343501.jpg'); */
-    /* filter: alpha(opacity=19); */
-    /* background-size: cover; */
-    /* background-position: center; */
-    /* height: 300px; */
-    /* set the height of the header */
+header {
+    background-image: url('/src/img/4523362_2343501.jpg');
+    filter: alpha(opacity=19);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    set the height of the header
     /* background-color: #000; */
     /* color: #fff; */
     /* padding: 1em; */
     /* opacity: 95%; */
-/* } */
+}
 
 
 /* Headings styling */
