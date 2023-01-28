@@ -19,8 +19,8 @@
 
 /* Header styling */
 header {
-    background-image: url('/src/img/4523362_2343501.jpg');
-    filter: alpha(opacity=19);
+    background-image: url('https://img.freepik.com/free-vector/isometric-maths-elements-background_52683-8061.jpg?w=740&t=st=1674948752~exp=1674949352~hmac=a02f88b27fabe1f7f39267fb38de77725519754a21af9c8ac2daa3055b996e9a');
+    /* filter: alpha(opacity=19); */
     background-size: cover;
     background-position: center;
     height: 300px;
