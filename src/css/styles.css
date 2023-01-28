@@ -19,7 +19,7 @@ body {
 
 /* Header styling */
 header {
-    background-image: url("https://cdn.pixabay.com/photo/2019/12/21/20/44/math-work-4711302_1280.jpg")!important;
+    background-image: url('/src/img/4523362_2343501.jpg') !important;
     /* filter: alpha(opacity=19); */
     background-size: cover;
     background-position: center;
