@@ -22,3 +22,5 @@ Conclusion
 Overall, this project was a great learning experience for me. It allowed me to finally return to coding during the final week of the class and its actually something that is informative. I hope this web page will be helpful for anyone interested in pursuing a career in mathematics.
 
 PS. I was newer then and was winging it with Git. My commits are going to look crazier over time probably. Just pointing out that I know :) 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d6a98425-ce0f-40bb-a46f-a8ddc2d5074c/deploy-status)](https://app.netlify.com/sites/astounding-toffee-9191c4/deploys)
